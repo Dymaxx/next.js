@@ -7,9 +7,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.12",
+    "@react-google-maps/api": "^1.13.0",
+    "google-map-react": "^2.1.9",
     "next": "latest",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "pure-react-carousel": "^1.27.6",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-slick": "^0.27.12",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
     "postcss-flexbugs-fixes": "4.2.1",
